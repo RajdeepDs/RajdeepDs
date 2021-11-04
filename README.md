@@ -10,7 +10,7 @@
  <br />
  
  ### About Me 🚀
- 🎓 I'm an Open-Source enthusiast & pursuing my dreams. </br>
+ 🎓 I'm an Open-Source enthusiast & pursuing my dreams.  </br>
  👨‍💻 I am passionate about programming & I enjoy learning new things.
  </br>
  
