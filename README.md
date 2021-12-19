@@ -10,7 +10,9 @@
  <br />
  
  ### About Me 🚀
- 🎓 I'm an Open-Source enthusiast & pursuing my dreams.  </br>
+ 🎓 I'm an Open-Source enthusiast & pursuing my Bachelors in Computer Science & Engineering.  </br>
  👨‍💻 I am passionate about programming & I enjoy learning new things.
  </br>
  
+### My Experiences 🙌
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/)- Contributed in Hacktoberfest 2021, to several Data Structure and Algorithm projects.
