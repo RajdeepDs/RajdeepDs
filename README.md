@@ -12,7 +12,7 @@
  <br />
  
  ### About Me 🚀
- 🎓 I'm an Open-Source enthusiast & pursuing my Bachelors in Computer Science & Engineering.  </br>
+ 🎓 I'm an Open-Source enthusiast & pursuing my Bachelors in Computer Science.  </br>
  👨‍💻 I am passionate about programming & I enjoy learning new things.
  </br>
  
